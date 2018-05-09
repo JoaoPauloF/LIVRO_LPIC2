@@ -1,4 +1,4 @@
-# LPI2BOOK
+# LPI2 BOOK
 
 Hello everyone! This project will be a book for the LPIC - 2 certification. I will make a good and *always free* material for everyone. 
 
